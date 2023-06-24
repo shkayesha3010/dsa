@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 using namespace std;
 
@@ -51,5 +49,4 @@ int main()
     bool third = (a >= b);
     cout << third << endl;
     bool fourth = (a < b);
-    cout << fourth << endl;
-}
+    cout << fourth
