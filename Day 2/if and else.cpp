@@ -1,10 +1,15 @@
+/**
+ * Determines if an integer is positive or negative.
+ *
+ * @param n The integer to be evaluated.
+ *
+ * @returns None
+ */
 #include <iostream>
 using namespace std;
 int main()
 {
-    // Initialization
     int n;
-    // Taking input from user
     cin >> n;
     cout<<"value of n is " << n <<endl;
 
